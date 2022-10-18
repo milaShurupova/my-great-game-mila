@@ -1,0 +1,7 @@
+﻿  draw.c
+  main.c
+C:\Users\milas\source\repos\MyGreatGameMila\MyGreatGameMila\main.c(254,81): warning C4047: 'function': 'WPARAM' differs in levels of indirection from 'HMENU'
+C:\Users\milas\source\repos\MyGreatGameMila\MyGreatGameMila\main.c(254,66): warning C4024: 'SendMessageW': different types for formal and actual parameter 3
+  tetromino.c
+  Generating Code...
+  MyGreatGameMila.vcxproj -> C:\Users\milas\source\repos\MyGreatGameMila\x64\Debug\MyGreatGameMila.exe
